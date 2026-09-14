@@ -1,0 +1,57 @@
+{
+  "completed_at": "2026-09-13T06:49:08.599280+00:00",
+  "created_at": "2026-09-13T06:49:08.329909+00:00",
+  "events": [
+    {
+      "entry_hash": "6f3726445df7216686092e128eb6f2e6d661669c5347c5d6614220e2176a39e5",
+      "event_data": {
+        "device_id": "cdb045c3-c766-4550-a76a-239a7f51d135",
+        "member_id": "edf9bfa4-7251-4220-a74e-86b008c307a7",
+        "purpose_type": "insurance"
+      },
+      "event_type": "evidence_created",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sequence_number": 1,
+      "timestamp": "2026-09-13T06:49:08.333246+00:00"
+    },
+    {
+      "entry_hash": "e7f7af69bd94e68d7ba414ce084419a8ec4ebfc778ee77ef6d716a312d84713e",
+      "event_data": {
+        "checksum_verified": true,
+        "exif_datetime": "2026-09-13T06:49:07.916000+00:00",
+        "gps_lat": null,
+        "gps_lng": null,
+        "original_hash": "7c7bc7603ac04bd69feb4854106f0709b848d83c333eb290af191cb6f7aed939",
+        "pre_checksum": "7c7bc7603ac04bd69feb4854106f0709b848d83c333eb290af191cb6f7aed939"
+      },
+      "event_type": "original_uploaded",
+      "prev_hash": "6f3726445df7216686092e128eb6f2e6d661669c5347c5d6614220e2176a39e5",
+      "sequence_number": 2,
+      "timestamp": "2026-09-13T06:49:08.594778+00:00"
+    },
+    {
+      "entry_hash": "a611d3ab97f34218bbc2662518685814f8babd89e5eed80c9b2bcef50e25a7c6",
+      "event_data": {
+        "thumbnail_hash": "bbcd0c91c3f7000fa98d18fceb8647fa39675d538324f01a14fd95d31c1ce669",
+        "thumbnail_path": "thumbnails/87a95a4e-57e9-4756-ad5a-f2a05c17d91e.jpg"
+      },
+      "event_type": "thumbnail_generated",
+      "prev_hash": "e7f7af69bd94e68d7ba414ce084419a8ec4ebfc778ee77ef6d716a312d84713e",
+      "sequence_number": 3,
+      "timestamp": "2026-09-13T06:49:08.597140+00:00"
+    },
+    {
+      "entry_hash": "0463dac6823600f9f72e67382bea2a36fd5dd692d12bd0a7d95c9f936893c08d",
+      "event_data": {},
+      "event_type": "evidence_completed",
+      "prev_hash": "a611d3ab97f34218bbc2662518685814f8babd89e5eed80c9b2bcef50e25a7c6",
+      "sequence_number": 4,
+      "timestamp": "2026-09-13T06:49:08.599280+00:00"
+    }
+  ],
+  "evidence_id": "87a95a4e-57e9-4756-ad5a-f2a05c17d91e",
+  "final_hash": "0463dac6823600f9f72e67382bea2a36fd5dd692d12bd0a7d95c9f936893c08d",
+  "purpose_type": "insurance",
+  "schema_version": 1,
+  "status": "completed"
+}
