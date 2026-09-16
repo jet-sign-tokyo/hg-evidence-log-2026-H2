@@ -1,0 +1,57 @@
+{
+  "completed_at": "2026-09-16T06:04:46.833150+00:00",
+  "created_at": "2026-09-16T06:04:46.577247+00:00",
+  "events": [
+    {
+      "entry_hash": "49f2350852fc2510b0acb95dc83b9a4c60e12f4067744c40e072a1327bea37b6",
+      "event_data": {
+        "device_id": "cdb045c3-c766-4550-a76a-239a7f51d135",
+        "member_id": "edf9bfa4-7251-4220-a74e-86b008c307a7",
+        "purpose_type": "flea_market_listing"
+      },
+      "event_type": "evidence_created",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sequence_number": 1,
+      "timestamp": "2026-09-16T06:04:46.581671+00:00"
+    },
+    {
+      "entry_hash": "78f898aa23b9297fa3a5819e59642d5e4753ea0ed267debd8aa69bbf22ff9d45",
+      "event_data": {
+        "checksum_verified": true,
+        "exif_datetime": "2026-09-16T06:04:45.395000+00:00",
+        "gps_lat": null,
+        "gps_lng": null,
+        "original_hash": "9c388b0f629262a0512ece3f9df155a4f07745a60fce8b739198b6f0d8e6056f",
+        "pre_checksum": "9c388b0f629262a0512ece3f9df155a4f07745a60fce8b739198b6f0d8e6056f"
+      },
+      "event_type": "original_uploaded",
+      "prev_hash": "49f2350852fc2510b0acb95dc83b9a4c60e12f4067744c40e072a1327bea37b6",
+      "sequence_number": 2,
+      "timestamp": "2026-09-16T06:04:46.830004+00:00"
+    },
+    {
+      "entry_hash": "e9b4ac398140687458ad029d07ce65b4a62d17425a90689cd02d9ffe24d7c5d3",
+      "event_data": {
+        "thumbnail_hash": "d11adca7c83a24e0922f726493a7eff45bc3d94ea96e10f1fb70901d3eac0102",
+        "thumbnail_path": "thumbnails/7449a289-014c-450e-b92c-f734c34633c5.jpg"
+      },
+      "event_type": "thumbnail_generated",
+      "prev_hash": "78f898aa23b9297fa3a5819e59642d5e4753ea0ed267debd8aa69bbf22ff9d45",
+      "sequence_number": 3,
+      "timestamp": "2026-09-16T06:04:46.831609+00:00"
+    },
+    {
+      "entry_hash": "8027f033db0383bb3bae203a1951e10c6c1990789229d0e8ca4d6a98805516a7",
+      "event_data": {},
+      "event_type": "evidence_completed",
+      "prev_hash": "e9b4ac398140687458ad029d07ce65b4a62d17425a90689cd02d9ffe24d7c5d3",
+      "sequence_number": 4,
+      "timestamp": "2026-09-16T06:04:46.833150+00:00"
+    }
+  ],
+  "evidence_id": "7449a289-014c-450e-b92c-f734c34633c5",
+  "final_hash": "8027f033db0383bb3bae203a1951e10c6c1990789229d0e8ca4d6a98805516a7",
+  "purpose_type": "flea_market_listing",
+  "schema_version": 1,
+  "status": "completed"
+}
