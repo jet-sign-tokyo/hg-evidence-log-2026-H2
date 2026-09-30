@@ -1,0 +1,46 @@
+{
+  "completed_at": "2026-09-30T03:40:49.326042+00:00",
+  "created_at": "2026-09-30T03:40:45.917257+00:00",
+  "events": [
+    {
+      "entry_hash": "59143182ca30d083165bb32991cf660349c42c5c20a86fbb3b15c2cc811432d2",
+      "event_data": {
+        "device_id": "bdfe8c3d-9277-4ebc-9bda-271875e45c5e",
+        "member_id": "a833307a-5e4d-4df4-a7e1-a6079afbdce7",
+        "purpose_type": "flea_market_listing"
+      },
+      "event_type": "evidence_created",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sequence_number": 1,
+      "timestamp": "2026-09-30T03:40:45.921007+00:00"
+    },
+    {
+      "entry_hash": "b88e084bfef1c2e880a355f3622bb8bdb2d92e1809f6563a60436da98d3bbd58",
+      "event_data": {
+        "checksum_verified": true,
+        "exif_datetime": "2026-09-30T12:40:45.506000+09:00",
+        "location_hash": "e8ba404e90d317b62115cfe1b42db5ce406f9a0b40495346b1f5aaa882823bd9",
+        "location_status": "ok",
+        "original_hash": "2b6529e138b8b043bbb669fc54a3ba8c574905eb2fd2761d593109061ff2b16e",
+        "pre_checksum": "2b6529e138b8b043bbb669fc54a3ba8c574905eb2fd2761d593109061ff2b16e"
+      },
+      "event_type": "original_uploaded",
+      "prev_hash": "59143182ca30d083165bb32991cf660349c42c5c20a86fbb3b15c2cc811432d2",
+      "sequence_number": 2,
+      "timestamp": "2026-09-30T03:40:49.323318+00:00"
+    },
+    {
+      "entry_hash": "39c4f608872bcc522412f45ca3c557834eccbf3b0686ec39a6f8843f6bb77d2c",
+      "event_data": {},
+      "event_type": "evidence_completed",
+      "prev_hash": "b88e084bfef1c2e880a355f3622bb8bdb2d92e1809f6563a60436da98d3bbd58",
+      "sequence_number": 3,
+      "timestamp": "2026-09-30T03:40:49.326042+00:00"
+    }
+  ],
+  "evidence_id": "d5a13313-ba4f-4fe4-93dc-d69889cffbb2",
+  "final_hash": "39c4f608872bcc522412f45ca3c557834eccbf3b0686ec39a6f8843f6bb77d2c",
+  "purpose_type": "flea_market_listing",
+  "schema_version": 1,
+  "status": "completed"
+}
