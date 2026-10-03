@@ -1,0 +1,57 @@
+{
+  "completed_at": "2026-10-03T04:12:13.325942+00:00",
+  "created_at": "2026-10-03T04:12:10.272627+00:00",
+  "events": [
+    {
+      "entry_hash": "8db9ed87a821d8171c230c077f65d0d2304010a846acf3089a3c87af27809b46",
+      "event_data": {
+        "device_id": "33cf1730-9fea-4ea5-b63a-7a5e2f5c1b83",
+        "member_id": "7e253a40-8721-4974-ba92-4a84bc87f5b8",
+        "purpose_type": "report"
+      },
+      "event_type": "evidence_created",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sequence_number": 1,
+      "timestamp": "2026-10-03T04:12:10.277705+00:00"
+    },
+    {
+      "entry_hash": "1c10be3aff194e73bedee522ba52e71076793ad7ab5c1d0001cea70edd3be9a6",
+      "event_data": {
+        "checksum_verified": true,
+        "exif_datetime": "2026-10-03T13:12:09.106000+09:00",
+        "location_hash": null,
+        "location_status": "denied",
+        "original_hash": "9d3cfbafaf54c7ba8a068e04bcb456833034bd793938def6a6128345a2e21a7c",
+        "pre_checksum": "9d3cfbafaf54c7ba8a068e04bcb456833034bd793938def6a6128345a2e21a7c"
+      },
+      "event_type": "original_uploaded",
+      "prev_hash": "8db9ed87a821d8171c230c077f65d0d2304010a846acf3089a3c87af27809b46",
+      "sequence_number": 2,
+      "timestamp": "2026-10-03T04:12:13.322054+00:00"
+    },
+    {
+      "entry_hash": "babb4de14bd1411e60dccd84019981b69e98e43e3e6cfc8bb0243f3f267cab36",
+      "event_data": {
+        "thumbnail_hash": "b7bdee94968362ff55eef04194bb5ef888e3a463f984454c782e598609a26224",
+        "thumbnail_path": "thumbnails/0b6640e2-4a0e-4f2a-bbd4-a5bf228c2075.jpg"
+      },
+      "event_type": "thumbnail_generated",
+      "prev_hash": "1c10be3aff194e73bedee522ba52e71076793ad7ab5c1d0001cea70edd3be9a6",
+      "sequence_number": 3,
+      "timestamp": "2026-10-03T04:12:13.324173+00:00"
+    },
+    {
+      "entry_hash": "d5a3c9794b8c9cfa451373d71da57f016a5ee93cfb291f770c2915e6c757c6e4",
+      "event_data": {},
+      "event_type": "evidence_completed",
+      "prev_hash": "babb4de14bd1411e60dccd84019981b69e98e43e3e6cfc8bb0243f3f267cab36",
+      "sequence_number": 4,
+      "timestamp": "2026-10-03T04:12:13.325942+00:00"
+    }
+  ],
+  "evidence_id": "0b6640e2-4a0e-4f2a-bbd4-a5bf228c2075",
+  "final_hash": "d5a3c9794b8c9cfa451373d71da57f016a5ee93cfb291f770c2915e6c757c6e4",
+  "purpose_type": "report",
+  "schema_version": 1,
+  "status": "completed"
+}
