@@ -1,0 +1,63 @@
+{
+  "completed_at": "2026-10-06T03:43:44.999973+00:00",
+  "created_at": "2026-10-06T03:43:41.562558+00:00",
+  "events": [
+    {
+      "entry_hash": "969cac52fb9c6c36a9c4d3170ed0e313cd6fcfd4eaf94e6c4cdbd252c400113b",
+      "event_data": {
+        "client_capture_id": "b66243de-4a6f-4230-b407-4648306e97cc",
+        "device_id": "c37aff10-206a-49d6-b36c-413ffb20ac2a",
+        "member_id": "bf0b60ce-a7da-44bb-abb9-2720144ff633",
+        "purpose_type": "report"
+      },
+      "event_type": "evidence_created",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sequence_number": 1,
+      "timestamp": "2026-10-06T03:43:41.566061+00:00"
+    },
+    {
+      "entry_hash": "d5198e8cdbefbbe67f170e36b9cc33da0df1d8055f9fd0887f0f3eb6f191a678",
+      "event_data": {
+        "capture_mode": "offline",
+        "checksum_verified": true,
+        "client_sent_at": "2026-10-06T12:43:41.401000+09:00",
+        "clock_offset_seconds": -1.3,
+        "exif_datetime": "2026-10-06T12:43:20.289000+09:00",
+        "location_hash": "bc5620abdc22cf4aaca1b3af37ef36083640e28f830af37e359042eae32f278b",
+        "location_status": "ok",
+        "original_hash": "b6e1364c5537bc35945be3b39253f5b62a15f9800f708557a61c4065bdfb7c0e",
+        "pre_checksum": "b6e1364c5537bc35945be3b39253f5b62a15f9800f708557a61c4065bdfb7c0e",
+        "queued_at": "2026-10-06T12:43:21.845000+09:00",
+        "server_received_at": "2026-10-06T03:43:42.656925+00:00"
+      },
+      "event_type": "original_uploaded",
+      "prev_hash": "969cac52fb9c6c36a9c4d3170ed0e313cd6fcfd4eaf94e6c4cdbd252c400113b",
+      "sequence_number": 2,
+      "timestamp": "2026-10-06T03:43:44.993615+00:00"
+    },
+    {
+      "entry_hash": "29482620e6aa097ad3f7de64227d8cc69d702853afb8b08ccfdc6c97ce89d55e",
+      "event_data": {
+        "thumbnail_hash": "f881dd8cfcb1cb721ca2c07b45a9eb75f812c4a06e43bcd784f23cfba3dabcb9",
+        "thumbnail_path": "thumbnails/8494ab03-d06e-4136-b3ba-039c2a3b9164.jpg"
+      },
+      "event_type": "thumbnail_generated",
+      "prev_hash": "d5198e8cdbefbbe67f170e36b9cc33da0df1d8055f9fd0887f0f3eb6f191a678",
+      "sequence_number": 3,
+      "timestamp": "2026-10-06T03:43:44.997150+00:00"
+    },
+    {
+      "entry_hash": "6f57f0813a0e297fc66403ac145bff52a733a5d63bb1458c053312f2f3ef59d2",
+      "event_data": {},
+      "event_type": "evidence_completed",
+      "prev_hash": "29482620e6aa097ad3f7de64227d8cc69d702853afb8b08ccfdc6c97ce89d55e",
+      "sequence_number": 4,
+      "timestamp": "2026-10-06T03:43:44.999973+00:00"
+    }
+  ],
+  "evidence_id": "8494ab03-d06e-4136-b3ba-039c2a3b9164",
+  "final_hash": "6f57f0813a0e297fc66403ac145bff52a733a5d63bb1458c053312f2f3ef59d2",
+  "purpose_type": "report",
+  "schema_version": 1,
+  "status": "completed"
+}
