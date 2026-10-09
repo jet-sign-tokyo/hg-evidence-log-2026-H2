@@ -1,0 +1,63 @@
+{
+  "completed_at": "2026-10-09T23:47:57.854949+00:00",
+  "created_at": "2026-10-09T23:43:32.423291+00:00",
+  "events": [
+    {
+      "entry_hash": "55844222e19adafdb0b5d71a530f2f4098e416451cd4cc97e2905333971d02a3",
+      "event_data": {
+        "client_capture_id": "4a04a46e-5646-4de8-aaa4-a62c87cde522",
+        "device_id": "c37aff10-206a-49d6-b36c-413ffb20ac2a",
+        "member_id": "bf0b60ce-a7da-44bb-abb9-2720144ff633",
+        "purpose_type": "insurance"
+      },
+      "event_type": "evidence_created",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sequence_number": 1,
+      "timestamp": "2026-10-09T23:43:32.426730+00:00"
+    },
+    {
+      "entry_hash": "d4041d10b3deb3787930da120ece564beb4bff4ace6e2b11e468e2a25c18b379",
+      "event_data": {
+        "capture_mode": "offline",
+        "checksum_verified": true,
+        "client_sent_at": "2026-10-10T08:47:54.419000+09:00",
+        "clock_offset_seconds": -0.3,
+        "exif_datetime": "2026-10-10T08:43:30.241000+09:00",
+        "location_hash": "02060c87429eba802136d4bb4900ea0efcf99b5b3bf4c92b2a4aa9035bdb9030",
+        "location_status": "ok",
+        "original_hash": "48b8caef3ab0362bb06dea641a55587e36e1aee33af9898d7e82b8c26f8a9a3e",
+        "pre_checksum": "48b8caef3ab0362bb06dea641a55587e36e1aee33af9898d7e82b8c26f8a9a3e",
+        "queued_at": "2026-10-10T08:43:32.705000+09:00",
+        "server_received_at": "2026-10-09T23:47:54.755724+00:00"
+      },
+      "event_type": "original_uploaded",
+      "prev_hash": "55844222e19adafdb0b5d71a530f2f4098e416451cd4cc97e2905333971d02a3",
+      "sequence_number": 2,
+      "timestamp": "2026-10-09T23:47:57.848057+00:00"
+    },
+    {
+      "entry_hash": "ab20ca423e261193411b7d034a911c321e33b4ff60a10787e29e0db53c9414de",
+      "event_data": {
+        "thumbnail_hash": "0c3cd2f568756662a15e8a01a837d2e89feb812ea71199fc0f1efbce6b0793fc",
+        "thumbnail_path": "thumbnails/1e069493-3fa6-4e39-a8bb-3cfc9ca42ed3.jpg"
+      },
+      "event_type": "thumbnail_generated",
+      "prev_hash": "d4041d10b3deb3787930da120ece564beb4bff4ace6e2b11e468e2a25c18b379",
+      "sequence_number": 3,
+      "timestamp": "2026-10-09T23:47:57.851812+00:00"
+    },
+    {
+      "entry_hash": "dba0df28a2bcbde3f0c24c9b214e9c42ae4a79b02aa0fa35a4d9636caeafb903",
+      "event_data": {},
+      "event_type": "evidence_completed",
+      "prev_hash": "ab20ca423e261193411b7d034a911c321e33b4ff60a10787e29e0db53c9414de",
+      "sequence_number": 4,
+      "timestamp": "2026-10-09T23:47:57.854949+00:00"
+    }
+  ],
+  "evidence_id": "1e069493-3fa6-4e39-a8bb-3cfc9ca42ed3",
+  "final_hash": "dba0df28a2bcbde3f0c24c9b214e9c42ae4a79b02aa0fa35a4d9636caeafb903",
+  "purpose_type": "insurance",
+  "schema_version": 1,
+  "status": "completed"
+}
