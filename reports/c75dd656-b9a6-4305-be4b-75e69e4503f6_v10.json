@@ -1,0 +1,31 @@
+{
+  "blocks": [
+    {
+      "hash": "c3cebfc8e4890a50e7905881433e0e6a2e01e4d4a91cd7756f8e1109d4e0d37c",
+      "task_number": 1
+    }
+  ],
+  "created_at": "2026-10-13T22:24:36.367545+00:00",
+  "pdf_sha256": "01849871c68c909a43fdf13a554bcdfa914830651033215820d0285efdc86afa",
+  "photos": [
+    {
+      "evidence_id": "1eb7f8b5-2846-40c8-8006-1088407ad790",
+      "number": 1,
+      "original_sha256": "8fb79e7b756569e528a80cb918fc3f45ce7f090bb6a77b994609b2083881d889"
+    },
+    {
+      "evidence_id": "0e39fb7a-f2eb-42c4-ba69-aa97364dff50",
+      "number": 2,
+      "original_sha256": "8ed82f802514badb179868786fcf570817082209c0c2b38fa2481d0c27aa6585"
+    },
+    {
+      "evidence_id": "aec07add-f619-47fc-8cb1-74e9641350a2",
+      "number": 3,
+      "original_sha256": "a6fa032a145572b3fe4a1e9b250d5e7a7061904cedf6596c7ded09ef9a3982eb"
+    }
+  ],
+  "report_hash": "848f9162302f6d9a26267a23c02fa0d0478171955dbca85194e0f608ac0ca388",
+  "report_id": "c75dd656-b9a6-4305-be4b-75e69e4503f6",
+  "schema_version": 1,
+  "version": 10
+}
