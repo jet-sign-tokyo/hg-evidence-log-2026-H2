@@ -1,0 +1,31 @@
+{
+  "blocks": [
+    {
+      "hash": "b31754140fa1f21ccbc565e3dc8dd95ce8aed1f9b25b76957d019f07e8412a2d",
+      "task_number": 1
+    }
+  ],
+  "created_at": "2026-10-13T06:13:27.843824+00:00",
+  "pdf_sha256": "ba127ad8e511b35afa1fc2bcde18c4ff9a644df7d52ec5f92c9a0b9793b47f71",
+  "photos": [
+    {
+      "evidence_id": "1eb7f8b5-2846-40c8-8006-1088407ad790",
+      "number": 1,
+      "original_sha256": "8fb79e7b756569e528a80cb918fc3f45ce7f090bb6a77b994609b2083881d889"
+    },
+    {
+      "evidence_id": "0e39fb7a-f2eb-42c4-ba69-aa97364dff50",
+      "number": 2,
+      "original_sha256": "8ed82f802514badb179868786fcf570817082209c0c2b38fa2481d0c27aa6585"
+    },
+    {
+      "evidence_id": "7100c914-6868-4dae-9b5d-d51fd562529b",
+      "number": 3,
+      "original_sha256": "20581d5a8a821f8dc16533e5fec6b711f429aca12fae5b10450dec5cd15090b1"
+    }
+  ],
+  "report_hash": "2f9815c7b8d77d29bb469df596d239bc56674da16323dce3ce43227f4e5f5e1c",
+  "report_id": "c75dd656-b9a6-4305-be4b-75e69e4503f6",
+  "schema_version": 1,
+  "version": 6
+}
