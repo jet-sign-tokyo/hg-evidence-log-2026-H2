@@ -1,0 +1,31 @@
+{
+  "blocks": [
+    {
+      "hash": "ef08ae4e557fbf17f3c0b5de291152b562365e14e8b9932696287458e20f103e",
+      "task_number": 1
+    }
+  ],
+  "created_at": "2026-10-25T03:29:46.440415+00:00",
+  "pdf_sha256": "23480d0b19c927ee13f87fa6a6453bddfd85b422147d8ce1916e0e1480e4b63c",
+  "photos": [
+    {
+      "evidence_id": "0e39fb7a-f2eb-42c4-ba69-aa97364dff50",
+      "number": 1,
+      "original_sha256": "8ed82f802514badb179868786fcf570817082209c0c2b38fa2481d0c27aa6585"
+    },
+    {
+      "evidence_id": "7100c914-6868-4dae-9b5d-d51fd562529b",
+      "number": 2,
+      "original_sha256": "20581d5a8a821f8dc16533e5fec6b711f429aca12fae5b10450dec5cd15090b1"
+    },
+    {
+      "evidence_id": "f58d9928-d1df-41d3-b71a-ae8345973114",
+      "number": 3,
+      "original_sha256": "f7b8c1a253d67d849dcd1ba56431c89f81f509aa60d389c7f2758e3d26b4347b"
+    }
+  ],
+  "report_hash": "de1d5886b59b9d94a0fed1b3f9104ec6220c05f67884e6dea9b017bb20a9db83",
+  "report_id": "48ba14dc-8761-4470-88ac-68cdbc7529d9",
+  "schema_version": 1,
+  "version": 1
+}
