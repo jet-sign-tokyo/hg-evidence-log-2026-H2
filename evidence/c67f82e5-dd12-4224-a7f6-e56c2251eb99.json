@@ -1,0 +1,63 @@
+{
+  "completed_at": "2026-10-30T03:12:24.863146+00:00",
+  "created_at": "2026-10-30T03:12:20.285549+00:00",
+  "events": [
+    {
+      "entry_hash": "844fb3e2fa66ba87616913dd5d344b80ac9b08a7630c1de2daa26bf877574ae7",
+      "event_data": {
+        "client_capture_id": "e8b23fa4-fd68-4a79-9b2a-339659115d49",
+        "device_id": "c37aff10-206a-49d6-b36c-413ffb20ac2a",
+        "member_id": "bf0b60ce-a7da-44bb-abb9-2720144ff633",
+        "purpose_type": "highvolt"
+      },
+      "event_type": "evidence_created",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "sequence_number": 1,
+      "timestamp": "2026-10-30T03:12:20.288087+00:00"
+    },
+    {
+      "entry_hash": "7cb404b367ed772f8deafd1f5b77f224248ad837e12daa90c8d75ee05da94f96",
+      "event_data": {
+        "capture_mode": "online",
+        "checksum_verified": true,
+        "client_sent_at": "2026-10-30T12:12:19.744000+09:00",
+        "clock_offset_seconds": -0.8,
+        "exif_datetime": "2026-10-30T12:12:17.736000+09:00",
+        "location_hash": "866c46a44a876270b328ced284e54595a316132c90bc4eef8b24a458c95c7c9f",
+        "location_status": "ok",
+        "original_hash": "5589222b7611e0c87b8960224175e3c566377b49e9a3670a584dfb23b7559e8d",
+        "pre_checksum": "5589222b7611e0c87b8960224175e3c566377b49e9a3670a584dfb23b7559e8d",
+        "queued_at": null,
+        "server_received_at": "2026-10-30T03:12:20.495835+00:00"
+      },
+      "event_type": "original_uploaded",
+      "prev_hash": "844fb3e2fa66ba87616913dd5d344b80ac9b08a7630c1de2daa26bf877574ae7",
+      "sequence_number": 2,
+      "timestamp": "2026-10-30T03:12:24.856413+00:00"
+    },
+    {
+      "entry_hash": "e35510db1870923efcbc7ee18ff55baa3cbc762a859a9521e70067f8a3e958eb",
+      "event_data": {
+        "thumbnail_hash": "d8121a494e9aa51e4376ad633403a95831f29d555a7e655a43b9fdb9731933ce",
+        "thumbnail_path": "thumbnails/c67f82e5-dd12-4224-a7f6-e56c2251eb99.jpg"
+      },
+      "event_type": "thumbnail_generated",
+      "prev_hash": "7cb404b367ed772f8deafd1f5b77f224248ad837e12daa90c8d75ee05da94f96",
+      "sequence_number": 3,
+      "timestamp": "2026-10-30T03:12:24.859844+00:00"
+    },
+    {
+      "entry_hash": "633f539e72cc77a9a3e906e531c8015b0cfe6516c6b1474d76733258efd85680",
+      "event_data": {},
+      "event_type": "evidence_completed",
+      "prev_hash": "e35510db1870923efcbc7ee18ff55baa3cbc762a859a9521e70067f8a3e958eb",
+      "sequence_number": 4,
+      "timestamp": "2026-10-30T03:12:24.863146+00:00"
+    }
+  ],
+  "evidence_id": "c67f82e5-dd12-4224-a7f6-e56c2251eb99",
+  "final_hash": "633f539e72cc77a9a3e906e531c8015b0cfe6516c6b1474d76733258efd85680",
+  "purpose_type": "highvolt",
+  "schema_version": 1,
+  "status": "completed"
+}
